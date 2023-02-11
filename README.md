@@ -1,2 +1,2 @@
 # CodeWars
-Examples of solving tasks from the codewars platform
+Examples of solving tasks from the codewars and leetcode
